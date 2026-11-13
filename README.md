@@ -1,1 +1,1 @@
-# phynton-hub
+# Phynton Hub
